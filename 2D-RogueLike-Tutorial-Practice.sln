@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D-RogueLike-Tutorial-Practice", "2D-RogueLike-Tutorial-Practice.csproj", "{0B364DB1-EA49-FDC1-94F5-4C003319844F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D-RogueLike-Tutorial-Practice.Editor", "2D-RogueLike-Tutorial-Practice.Editor.csproj", "{DE3418FD-E112-E853-A1E2-F2DC0921EB25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B364DB1-EA49-FDC1-94F5-4C003319844F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B364DB1-EA49-FDC1-94F5-4C003319844F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B364DB1-EA49-FDC1-94F5-4C003319844F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B364DB1-EA49-FDC1-94F5-4C003319844F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3418FD-E112-E853-A1E2-F2DC0921EB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3418FD-E112-E853-A1E2-F2DC0921EB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3418FD-E112-E853-A1E2-F2DC0921EB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3418FD-E112-E853-A1E2-F2DC0921EB25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
